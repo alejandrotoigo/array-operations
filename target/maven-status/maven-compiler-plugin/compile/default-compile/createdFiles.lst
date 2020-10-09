@@ -1,0 +1,6 @@
+alejandrotoigo\array\operations\util\Constants.class
+alejandrotoigo\array\operations\util\Util.class
+alejandrotoigo\array\operations\exceptions\LineLengthExceededException.class
+alejandrotoigo\array\operations\exceptions\TerminationException.class
+alejandrotoigo\array\operations\Main.class
+alejandrotoigo\array\operations\util\LineReader.class
